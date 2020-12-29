@@ -10,6 +10,6 @@
 - Berkan Muratoğlu  21733174
 - Ilay Gökçül       21792524
 
-###### Description
+###### Project Description
 
 - Our project aims to establish a sql database connection with android applications. Our aim to store user records on the database by using mysql.
