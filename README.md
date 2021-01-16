@@ -2,7 +2,7 @@
 
 ###### Project Title
 
-- Android Application with PHP Database
+- Android Application with MYSQL Database
 
 ###### Group Members
 
