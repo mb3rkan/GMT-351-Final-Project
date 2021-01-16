@@ -12,4 +12,4 @@
 
 ###### Project Description
 
-- Our project aims to establish a sql database connection with android applications. Our aim to store user records on the database by using phpmyadmin. Our application has also operations such as downloading images from our php server.
+- Our project aims to establish a sql database connection with android applications. Our aim to store user records on the database by using phpmyadmin. Our application has also operations such as uploading images from our php server.
