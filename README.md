@@ -2,7 +2,7 @@
 
 ###### Project Title
 
-- Android Application with SQL Database
+- Android Application with PHP Database
 
 ###### Group Members
 
@@ -12,4 +12,4 @@
 
 ###### Project Description
 
-- Our project aims to establish a sql database connection with android applications. Our aim to store user records on the database by using phpmyadmin. Our application has operations such as downloading images from our php server.
+- Our project aims to establish a sql database connection with android applications. Our aim to store user records on the database by using phpmyadmin. Our application has also operations such as downloading images from our php server.
