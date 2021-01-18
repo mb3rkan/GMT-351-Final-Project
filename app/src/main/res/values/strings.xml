@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">gmt-351</string>
+    <string name="login">SIGN IN</string>
+    <string name="login_2">LOGIN</string>
+    <string name="register">Do not have an Account? Sign Up</string>
+    <string name="welcome">Welcome to Profile</string>
+    <string name="id">ID</string>
+    <string name="user_name">Username</string>
+    <string name="mail">E-mail</string>
+    <string name="gender">Gender</string>
+    <string name="logout">Logout</string>
+    <string name="register_2">SIGN UP</string>
+    <string name="password">Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="register_3">SIGN UP</string>
+    <string name="already">Have an Account? Sign In</string>
+    <string name="profile">Profile</string>
+    <string name="string_choose_file">CLICK HERE TO SELECT IMAGE FROM GALLERY</string>
+    <string name="string_upload_image">CLICK HERE TO UPLOAD SELECTED IMAGE ON SERVER </string>
+    <string name="string_view_image">VIEW IMAGE</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="img_view">Enter Image Name Here</string>
+    <string name="db">Check Server</string>
+
+
+</resources>
